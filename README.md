@@ -7,7 +7,8 @@
 
 <p>Here, we developed COVID-CDR, a unique platform to observe the network-based Mechanism of action (MOA) of <b>867 drugs </b> that are reported to treat COVID-19 symptoms.</p>
 
-
+# Demonstration
+You can operate this tool here: https://unsw-data-analytics.shinyapps.io/COVID_CombTherap/
 
 ## Tutorial (click to watch)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UsWSHu-wNCM/0.jpg)](https://youtu.be/tAd03VqbnXE)
